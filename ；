@@ -1,0 +1,47 @@
+[33mcommit 63a11192234822044f0fd43ec2b3bfb5e659a045[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 1f6cb69 ebabc0c
+Author: sato-is <80142020+sato-is@users.noreply.github.com>
+Date:   Thu Nov 14 18:04:43 2024 +0900
+
+    Merge pull request #62 from gizumo-education/fix/composer-dependencies
+    
+    Laravel インストール時の依存パッケージ不足の警告解消
+
+[33mcommit ebabc0ca81149e22bbcec7a1e2dbaf9e6d0f57b9[m
+Author: i-sato <i-sato@gizumo-inc.jp>
+Date:   Wed Nov 13 23:36:57 2024 +0900
+
+    fix: create-project実行時の不足パッケージの警告を解消
+
+[33mcommit 1f6cb690e9def028c84f6aac6705a456e8dc32a4[m
+Author: i-sato <i-sato@gizumo-inc.jp>
+Date:   Sun Jun 30 17:14:31 2024 +0900
+
+    refactor: 非推奨のversionの記述削除
+
+[33mcommit 70d496d9632cef8c4967b343c411c75b85b507d7[m
+Author: i-sato <i-sato@gizumo-inc.jp>
+Date:   Thu Apr 25 17:04:03 2024 +0900
+
+    fix: コンテナ名修正
+
+[33mcommit 70b74ea2596503d6208e83a54a303b09344f90dd[m
+Merge: f064243 20503e7
+Author: m-yoshihiro <49275583+m-yoshihiro@users.noreply.github.com>
+Date:   Thu Jan 19 18:04:07 2023 +0900
+
+    Merge pull request #1 from gizumo-education/fix/yoshihiro
+    
+    コンテナのcomposerを2系に修正
+
+[33mcommit 20503e7729498d525c0b93b1c4b3d73be4b66d0d[m
+Author: m-yoshihiro <m.yoshihiro45@gmail.com>
+Date:   Wed Jan 18 11:29:18 2023 +0900
+
+    コンテナのcomposerを2系に修正
+
+[33mcommit f0642430c45fee91693842610367d562dd0437f5[m
+Author: m-yoshihiro <m.yoshihiro45@gmail.com>
+Date:   Thu Jan 5 12:07:44 2023 +0900
+
+    first commit
