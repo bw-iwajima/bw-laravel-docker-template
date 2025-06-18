@@ -8,4 +8,9 @@ class Todo extends Model
 {
     //
     protected $table = 'todos';
+
+    protected $fillable =[
+        'content',
+    ];
+
 }
