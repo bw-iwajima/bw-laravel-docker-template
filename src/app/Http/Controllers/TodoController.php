@@ -8,7 +8,6 @@ use App\Todo;
 
 class TodoController extends Controller
 {
-    //<ここから>
     public function index()
     {
         $todo = new Todo();
@@ -17,7 +16,7 @@ class TodoController extends Controller
 
         return view('todo.index',['todos'=>$todos]);
     }
-    //<ここまで>
+    
     public function create()
     {
         return view('todo.create');
